@@ -1,4 +1,4 @@
-# OpenEnclave Enclave Example
+# Open Enclave SDK Enclave Example
 
 This is a simplified version of the OpenEnclave SDK
 [helloworld](https://github.com/openenclave/openenclave/tree/master/samples/helloworld) example, that runs in a
